@@ -3,3 +3,4 @@ we are just trying out some Git commands
 Gotta play with Rezkin soon here.
 <!DOCTYPE UTC-8>
 More random text to test things out 
+Test #2 for using vscode as commit message input
